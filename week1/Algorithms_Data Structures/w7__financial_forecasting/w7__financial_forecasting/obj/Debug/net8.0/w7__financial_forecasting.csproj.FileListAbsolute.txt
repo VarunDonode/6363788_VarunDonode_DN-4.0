@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\bin\Debug\net8.0\w7__financial_forecasting.exe
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\bin\Debug\net8.0\w7__financial_forecasting.deps.json
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\bin\Debug\net8.0\w7__financial_forecasting.runtimeconfig.json
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\bin\Debug\net8.0\w7__financial_forecasting.dll
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\bin\Debug\net8.0\w7__financial_forecasting.pdb
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\w7__financial_forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\w7__financial_forecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\w7__financial_forecasting.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\w7__financial_forecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\w7__financial_forecasting.dll
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\refint\w7__financial_forecasting.dll
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\w7__financial_forecasting.pdb
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\w7__financial_forecasting.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cog\week1\w7__financial_forecasting\w7__financial_forecasting\obj\Debug\net8.0\ref\w7__financial_forecasting.dll

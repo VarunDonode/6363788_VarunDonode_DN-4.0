@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w4__employee_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D377150-FF48-4269-9DC3-0029E3666697}|w4__employee_management\\w4__employee_management.csproj|c:\\users\\kiit\\desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D377150-FF48-4269-9DC3-0029E3666697}|w4__employee_management\\w4__employee_management.csproj|solutionrelative:w4__employee_management\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D377150-FF48-4269-9DC3-0029E3666697}|w4__employee_management\\w4__employee_management.csproj|c:\\users\\kiit\\desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D377150-FF48-4269-9DC3-0029E3666697}|w4__employee_management\\w4__employee_management.csproj|solutionrelative:w4__employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D377150-FF48-4269-9DC3-0029E3666697}|w4__employee_management\\w4__employee_management.csproj|c:\\users\\kiit\\desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D377150-FF48-4269-9DC3-0029E3666697}|w4__employee_management\\w4__employee_management.csproj|solutionrelative:w4__employee_management\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "w4__employee_management\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\EmployeeManager.cs",
+              "RelativeToolTip": "w4__employee_management\\EmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:50:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\Employee.cs",
+              "RelativeDocumentMoniker": "w4__employee_management\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\Employee.cs",
+              "RelativeToolTip": "w4__employee_management\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:49:38.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\Program.cs",
+              "RelativeDocumentMoniker": "w4__employee_management\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w4__employee_management\\w4__employee_management\\Program.cs",
+              "RelativeToolTip": "w4__employee_management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:48:37.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\w3_sort_customer_orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\w3_sort_customer_orders.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\w3_sort_customer_orders.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\w3_sort_customer_orders.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\bin\Debug\net8.0\w3_sort_customer_orders.exe
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\bin\Debug\net8.0\w3_sort_customer_orders.deps.json
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\bin\Debug\net8.0\w3_sort_customer_orders.runtimeconfig.json
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\bin\Debug\net8.0\w3_sort_customer_orders.dll
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\bin\Debug\net8.0\w3_sort_customer_orders.pdb
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\w3_sort_customer_orders.dll
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\refint\w3_sort_customer_orders.dll
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\w3_sort_customer_orders.pdb
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\w3_sort_customer_orders.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cog\week1\w3_sort_customer_orders\w3_sort_customer_orders\obj\Debug\net8.0\ref\w3_sort_customer_orders.dll

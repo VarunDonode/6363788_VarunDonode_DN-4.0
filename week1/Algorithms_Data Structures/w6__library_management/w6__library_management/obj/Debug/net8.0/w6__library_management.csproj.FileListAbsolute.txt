@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\bin\Debug\net8.0\w6__library_management.exe
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\bin\Debug\net8.0\w6__library_management.deps.json
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\bin\Debug\net8.0\w6__library_management.runtimeconfig.json
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\bin\Debug\net8.0\w6__library_management.dll
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\bin\Debug\net8.0\w6__library_management.pdb
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\w6__library_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\w6__library_management.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\w6__library_management.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\w6__library_management.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\w6__library_management.dll
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\refint\w6__library_management.dll
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\w6__library_management.pdb
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\w6__library_management.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cog\week1\w6__library_management\w6__library_management\obj\Debug\net8.0\ref\w6__library_management.dll

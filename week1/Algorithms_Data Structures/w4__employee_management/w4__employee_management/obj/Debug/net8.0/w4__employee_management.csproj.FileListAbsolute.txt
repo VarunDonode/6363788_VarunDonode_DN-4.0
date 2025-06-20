@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\bin\Debug\net8.0\w4__employee_management.exe
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\bin\Debug\net8.0\w4__employee_management.deps.json
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\bin\Debug\net8.0\w4__employee_management.runtimeconfig.json
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\bin\Debug\net8.0\w4__employee_management.dll
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\bin\Debug\net8.0\w4__employee_management.pdb
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\w4__employee_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\w4__employee_management.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\w4__employee_management.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\w4__employee_management.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\w4__employee_management.dll
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\refint\w4__employee_management.dll
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\w4__employee_management.pdb
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\w4__employee_management.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\cog\week1\w4__employee_management\w4__employee_management\obj\Debug\net8.0\ref\w4__employee_management.dll

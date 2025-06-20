@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w5__task_management", "w5__task_management\w5__task_management.csproj", "{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D854F09-7D36-41B9-9CA3-5FA0341C87DE}
+	EndGlobalSection
+EndGlobal

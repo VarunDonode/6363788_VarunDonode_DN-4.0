@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "w2_ecommerce_search/1.0.0": {
+        "runtime": {
+          "w2_ecommerce_search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w2_ecommerce_search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

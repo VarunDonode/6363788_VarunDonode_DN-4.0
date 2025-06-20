@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w5__task_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}|w5__task_management\\w5__task_management.csproj|c:\\users\\kiit\\desktop\\cog\\week1\\w5__task_management\\w5__task_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}|w5__task_management\\w5__task_management.csproj|solutionrelative:w5__task_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}|w5__task_management\\w5__task_management.csproj|c:\\users\\kiit\\desktop\\cog\\week1\\w5__task_management\\w5__task_management\\tasknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}|w5__task_management\\w5__task_management.csproj|solutionrelative:w5__task_management\\tasknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}|w5__task_management\\w5__task_management.csproj|c:\\users\\kiit\\desktop\\cog\\week1\\w5__task_management\\w5__task_management\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE8EDA2-73C2-4F5A-99A4-B8277F37DA5B}|w5__task_management\\w5__task_management.csproj|solutionrelative:w5__task_management\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskNode.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w5__task_management\\w5__task_management\\TaskNode.cs",
+              "RelativeDocumentMoniker": "w5__task_management\\TaskNode.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w5__task_management\\w5__task_management\\TaskNode.cs",
+              "RelativeToolTip": "w5__task_management\\TaskNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:21:02.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w5__task_management\\w5__task_management\\Program.cs",
+              "RelativeDocumentMoniker": "w5__task_management\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w5__task_management\\w5__task_management\\Program.cs",
+              "RelativeToolTip": "w5__task_management\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:20:24.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w5__task_management\\w5__task_management\\TaskManager.cs",
+              "RelativeDocumentMoniker": "w5__task_management\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cog\\week1\\w5__task_management\\w5__task_management\\TaskManager.cs",
+              "RelativeToolTip": "w5__task_management\\TaskManager.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:21:25.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

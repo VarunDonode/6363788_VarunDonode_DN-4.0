@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "w4__employee_management/1.0.0": {
+        "runtime": {
+          "w4__employee_management.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w4__employee_management/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "w3_sort_customer_orders/1.0.0": {
+        "runtime": {
+          "w3_sort_customer_orders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w3_sort_customer_orders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
